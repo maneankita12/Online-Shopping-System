@@ -30,6 +30,12 @@ The system ensures security with login validation and exception handling, provid
 
 ---
 
+## Class Diagram
+
+![Alt text](ClassDiagram.png)
+
+---
+
 ## 🏗️ Class Descriptions  
 
 ### 🔹 `User` (Abstract Class)  
